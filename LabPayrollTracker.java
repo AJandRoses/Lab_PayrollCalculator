@@ -14,6 +14,7 @@ public class LabPayrollTracker {
         String employeeType = scanner.nextLine().toUpperCase();
         if (employeeType.equals("F") || employeeType.equals("P")) {
           validInput = true;
+          
           Employee employee;
           if (employeeType.equals("F")) {
             employee = new FullTimeEmployee();
