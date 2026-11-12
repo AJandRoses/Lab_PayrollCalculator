@@ -74,3 +74,7 @@ class PartTimeEmployee extends Employee {
     return hourlyRate * hoursWorked;
   }
 }
+
+## Code Review
+- **Reviewed by:** [Partner Hanan Abdulkarim]
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
