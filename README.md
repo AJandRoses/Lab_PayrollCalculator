@@ -1,4 +1,4 @@
-#Payroll Calculator Lab
+# Payroll Calculator Lab
 ### Author: Arjo Rosato
 
 ## Description
